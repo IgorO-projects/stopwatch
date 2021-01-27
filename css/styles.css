@@ -1,0 +1,16 @@
+.stopwatch__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    background-color: blueviolet;
+}
+.stopwatch__timer {
+    display: block;
+    width: 100px;
+    height: 19px;
+    background-color: white;
+    text-align: center;
+}
