@@ -1,4 +1,4 @@
-.stopwatch__container {
+.timer {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -7,7 +7,7 @@
     height: 400px;
     background-color: blueviolet;
 }
-.stopwatch__timer {
+.clockface {
     display: block;
     width: 100px;
     height: 19px;
